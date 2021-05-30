@@ -1,0 +1,9 @@
+{
+  "prefix":"pet.",
+  "bot_age": 1,
+  "words_array": [],
+  "bot_info" : {
+      "name" : "Petagoat",
+      "version": 1.0
+    }
+}
